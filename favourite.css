@@ -1,0 +1,19 @@
+.favourite-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    /*height: 100vh; */
+    background-size: cover;
+    padding: 32px;
+  }
+
+  .favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 11px;
+    margin: 15px;
+  }
+
+  .sub-image {
+    width: 80px;
+    height: 100px;
+  }

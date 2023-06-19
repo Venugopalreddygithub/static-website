@@ -1,0 +1,20 @@
+.detailed-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    padding: 25px;
+}
+
+.deatailed-heading {
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+    font-weight: bold;
+}
+
+.detailed-card {
+    background-color: white;
+    margin: 12px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+

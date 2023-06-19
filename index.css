@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Caveat|Monoton|Roboto');
+
+.bg-container {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.card-container {
+  background-color: white;
+  padding: 16px;
+  border-top-right-radius: 22px;
+  border-top-left-radius: 22px;
+}
+
+
